@@ -8,7 +8,7 @@ SO THAT I can create a strong password that provides greater security
 A JavaScript Password Generator has been created to meet these needs.
 
 ## Screenshot
-![JPG demo](/Develop/assets/screenshot.png)
+![JPG demo](./assets/screenshot.png)
 
 ## Acceptance Criteria
 GIVEN I need a new, secure password  
